@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Pankaj",
+    "address": "chhatarpur",
+    "phoneNumber": "123456789",
+    "email": "pankaj.example@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Pankaj",
+    "address": "chhatarpur",
+    "phoneNumber": "123456789",
+    "email": "pankaj.example@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Pankaj",
+    "address": "chhatarpur",
+    "phoneNumber": "123456789",
+    "email": "pankaj.example@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Pankaj",
+    "address": "chhatarpur",
+    "phoneNumber": "123456789",
+    "email": "pankaj.example@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Pankaj",
+    "address": "chhatarpur",
+    "phoneNumber": "123456789",
+    "email": "pankaj.example@email.com"
+  }
+]
